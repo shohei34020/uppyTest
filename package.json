@@ -13,6 +13,13 @@
         "axios": "^0.21",
         "laravel-mix": "^6.0.6",
         "lodash": "^4.17.19",
+        "alpinejs": "^2.7.3",
         "postcss": "^8.1.14"
+    },
+    "dependencies": {
+        "@uppy/aws-s3-multipart": "^1.8.12",
+        "@uppy/core": "^1.16.0",
+        "@uppy/drag-drop": "^1.4.24",
+        "@uppy/status-bar": "^1.9.0"
     }
 }

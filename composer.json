@@ -43,7 +43,10 @@
         "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
     },
     "config": {
-        "sort-packages": true
+        "sort-packages": true,
+        "platform": {
+            "php": "7.2.34"
+        }
     },
     "extra": {
         "laravel": {
